@@ -1,7 +1,7 @@
 <h2 align="center">👋 Olá! Eu sou Victor Reginaldo</h2>
 
 <p align="center">
-  Desenvolvedor Backend com foco em Python/Django<br>
+  Desenvolvedor Backend com foco em Python/Django e Java/SpringBoot<br>
   Crio sistemas completos e entrego produtos digitais prontos para o mundo real.<br>
   Meu objetivo é gerar valor — com eficiência, estabilidade e boas práticas.
 </p>
