@@ -1,15 +1,34 @@
 <h2 align="center">👋 Olá! Eu sou Victor Reginaldo</h2>
 
 <p align="center">
-  <strong>💻 Full-cycle Developer | Empreendedor</strong><br>
-  🛠️ Arquitetando soluções escaláveis<br>
+  <strong>💻 Engenheiro de Software | Produtos e Sistemas de Negócio</strong><br>
+  🛠️ Desenvolvendo soluções com regras complexas e impacto real<br>
   ✝️ <em>"Estar sempre unido a Jesus, este é o meu projeto de vida."</em> — S. Carlo Acutis
 </p>
 
 <p align="center">
-  Desenvolvedor focado em criar sistemas completos e produtos digitais prontos para o mundo real.<br>
-  Atualmente lidero o desenvolvimento de plataformas nas áreas de<br>
-  <strong>Saúde e Segurança do Trabalho</strong> e <strong>Gestão Esportiva</strong>.
+  Desenvolvo sistemas voltados para problemas reais de negócio,<br>
+  com foco em backend e regras de negócio.<br><br>
+  
+  Atuo como cofundador no desenvolvimento de plataformas na área de<br>
+  <strong>Saúde e Segurança do Trabalho</strong>.
+</p>
+
+<hr>
+
+<h3>🧠 Sobre mim</h3>
+
+<p>
+  Desenvolvo software com foco em resolver problemas reais de negócio,<br>
+  com ênfase em backend e regras mais complexas.<br><br>
+
+  Tenho uma abordagem prática e orientada à execução, me aprofundando conforme a necessidade — seja em arquitetura, negócio ou implementação.<br><br>
+
+  Atuo como cofundador na construção do SSTSuite, uma plataforma SaaS para Saúde e Segurança do Trabalho, participando desde as regras de negócio até o sistema em produção.<br><br>
+
+  Também tenho experiência no desenvolvimento de sistemas ERP, contribuindo para a organização e automação de rotinas operacionais.<br><br>
+
+  Busco construir sistemas confiáveis, escaláveis e alinhados à realidade da operação.
 </p>
 
 <hr>
