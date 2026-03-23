@@ -3,7 +3,6 @@
 <p align="center">
   <strong>💻 Engenheiro de Software | Produtos e Sistemas de Negócio</strong><br>
   🛠️ Desenvolvendo soluções com regras complexas e impacto real<br>
-  ✝️ <em>"Estar sempre unido a Jesus, este é o meu projeto de vida."</em> — S. Carlo Acutis
 </p>
 
 <p align="center">
@@ -44,8 +43,6 @@
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
   <br><br>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white">
