@@ -7,7 +7,7 @@
 
 <hr>
 
-<h3>🧠 Sobre mim</h3>
+<h3>🧑🏻‍💻 Sobre mim</h3>
 <p>
   Sou desenvolvedor backend com 3 anos de experiência em Python e Django.<br><br>
   Trabalho com sistemas corporativos voltados para a área de SST, atuando no desenvolvimento e manutenção de soluções que lidam com regras de negócio do setor.
